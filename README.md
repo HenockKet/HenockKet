@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @HenockKet
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m in Electrical And Computer Engineering
 
 <!---
 HenockKet/HenockKet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
